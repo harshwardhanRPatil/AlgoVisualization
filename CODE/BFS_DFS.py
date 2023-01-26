@@ -6,7 +6,7 @@ from Messages import *
 import pygame
 from maze import *
 
-red = (255, 0, 0)
+red = (255, 0, 10)
 width = 1000
 height = 800
 circle_num = 10
